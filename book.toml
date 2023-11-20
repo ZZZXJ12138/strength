@@ -1,0 +1,10 @@
+[book]
+title        = "全身力量训练与技巧性练习"
+authors      = ["zz"]
+language     = "zh"
+multilingual = true
+src = "src"
+
+[output.html]
+mathjax-support = true
+git-repository-url = "https://zzzxj12138.github.io/index/"

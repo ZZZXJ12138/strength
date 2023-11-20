@@ -5,5 +5,5 @@
 _**视频来源：** YouTube [@7mlc](https://www.youtube.com/@7mlc/videos)_
 
 <figure align="center">
-    <img src="./src/figures/strength.jpg">
+    <img src="./figures/strength.jpg">
 </figure>
